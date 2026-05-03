@@ -43,3 +43,4 @@ if __name__ == '__main__':
     print("✓ Directory utils loaded")
     print("✓ Logger helpers loaded")
     print(f"Current memory usage: {get_memory_usage():.2f} MB")
+    print("Utils module loaded successfully")
