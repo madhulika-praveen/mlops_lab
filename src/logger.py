@@ -73,4 +73,6 @@ if __name__ == '__main__':
     logger.info("Pipeline started")
     logger.warning("This is a warning")
     logger.error("An error occurred")
-# logging utility for pipeline stages
+
+    # ✅ Added line (important for Git change)
+    print("Logger module loaded successfully")
