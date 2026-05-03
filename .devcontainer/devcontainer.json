@@ -1,0 +1,9 @@
+{
+  "name": "MLOps Lab",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": [
+    "ms-python.python"
+  ]
+}
