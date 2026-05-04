@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 .dvc/cache/
+data/raw/ratings.csv
